@@ -33,8 +33,8 @@ Users should be able to:
 ![Mobile View1](output/MobileView2.PNG)
 ### Links
 
-- GitHub Repo URL: [GitHub Repo URL here](https://your-solution-url.com)
-- Live Site URL: [Live site URL here](https://your-live-site-url.com)
+- GitHub Repo URL: [GitHub Repo URL here](https://github.com/KrishnaPoddar1/pingpage.git)
+- Live Site URL: [Live site URL here](https://krishnapoddar1.github.io/pingpage/)
 
 ## My process
 
